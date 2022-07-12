@@ -50,3 +50,14 @@ footer ul li {
   float: left;
   margin-left: 15px;
 }
+.article-actions {
+  border-top: 1px solid #eaeaea;
+  display: flex;
+}
+.article-actions a,
+.article-actions form {
+  margin: 3px;
+}
+.description {
+  margin-top: 0;
+}
